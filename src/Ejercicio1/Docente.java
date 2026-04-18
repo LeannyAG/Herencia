@@ -1,5 +1,23 @@
 package Ejercicio1;
 
+
+
+
+
+
+
+
+/*
+//Herencia:
+// Extiende Persona
+
+//Override:
+// mostrar()
+
+//Caso de prueba:
+//Docente con especialidad = geografia
+*/
+
 public class Docente extends Persona{
 
 	private String especialidad;

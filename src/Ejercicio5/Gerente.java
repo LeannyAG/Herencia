@@ -1,5 +1,11 @@
 package Ejercicio5;
 
+
+//Herencia: gerente→ emlpleado
+//Override: calcularSalario()
+//Caso: salario + bono
+
+
 public class Gerente extends Empleado {
 
 	

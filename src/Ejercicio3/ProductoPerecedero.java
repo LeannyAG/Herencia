@@ -2,6 +2,11 @@ package Ejercicio3;
 
 import java.time.LocalDate;
 
+
+//Herencia: Productoperecedero herencia Producto
+//Método: estaVencido()
+//Caso: fecha de vencimientol
+
 public class ProductoPerecedero extends Producto {
 	
 	private LocalDate fechaVencimiento;

@@ -1,6 +1,10 @@
 package Ejercicio4;
 
 
+//Herencia:Bus → BusTransporte 
+//Método: descripcion()
+//Caso: ruta + capacidad
+
 public class Bus extends Transporte {
 	
 	

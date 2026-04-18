@@ -1,5 +1,17 @@
 package Ejercicio2;
 
+
+
+
+
+//Herencia: Cuenta → CuentaCorriente
+//Override: retirar()
+//Caso: prueba de sobregiro
+
+
+
+
+
 public class CuentaCorriente extends Cuenta {
 
 

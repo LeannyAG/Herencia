@@ -3,6 +3,10 @@ package Ejercicio8;
 public class Rectangulo extends Figura {
 
 	
+	//Herencia: rectangulo herencia figura
+	//Override: calcularArea()
+	//Caso: base*altura 
+	
 	private double base;
 	private double altura;
 	

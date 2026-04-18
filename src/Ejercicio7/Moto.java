@@ -1,5 +1,10 @@
 package Ejercicio7;
 
+
+//Herencia: moto  → vehivulo
+//Método: mostrarInfo()
+//Caso: marca + cilindrada
+
 public class Moto extends Vehiculo{
 
 	private int cilindrada;

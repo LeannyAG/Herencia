@@ -1,5 +1,11 @@
 package Ejercicio8;
 
+
+//Herencia:circulo herencia figura
+//Override: calcularArea()
+//Caso: pi * radio al cuadrado
+
+
 public class Circulo extends Figura{
 
 	

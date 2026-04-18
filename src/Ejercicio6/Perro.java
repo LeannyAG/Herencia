@@ -1,5 +1,11 @@
 package Ejercicio6;
 
+
+
+//Herencia: perro → animal
+//Override: hacerSonido()
+//Caso: ladrido
+
 public class Perro extends Animal {
 
 	
