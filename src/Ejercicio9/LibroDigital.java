@@ -1,5 +1,11 @@
 package Ejercicio9;
 
+
+
+//Herencia:  LibroDigital herencia libro
+//Método: mostrarInfo()
+//Caso: título + MB
+
 public class LibroDigital extends Libro{
 
 	private int mb;
