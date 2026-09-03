@@ -20,6 +20,14 @@ package Ejercicio1;
 
 public class Docente extends Persona{
 
+	@Override
+	public String toString() {
+		return "Docente [especialidad=" + especialidad + "]";
+	}
+
+
+
+
 	private String especialidad;
 
 	
